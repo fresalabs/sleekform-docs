@@ -3,12 +3,8 @@
   "localized-strings": {
     "next": "Next",
     "previous": "Previous",
-    "tagline": "A website for testing",
+    "tagline": "Typeform components",
     "docs": {
-      "doc1": {
-        "title": "Latin-ish",
-        "sidebar_label": "Example Page"
-      },
       "doc2": {
         "title": "document number 2"
       },
@@ -20,6 +16,10 @@
       },
       "doc5": {
         "title": "Fifth Document"
+      },
+      "text": {
+        "title": "Text Field",
+        "sidebar_label": "Text Field"
       }
     },
     "links": {
@@ -29,7 +29,7 @@
       "Blog": "Blog"
     },
     "categories": {
-      "Docusaurus": "Docusaurus",
+      "Components": "Components",
       "First Category": "First Category",
       "Second Category": "Second Category"
     }
