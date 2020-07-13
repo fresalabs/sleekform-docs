@@ -1,0 +1,42 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="OTHER_INDENT_OPTIONS">
+      <value>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+      </value>
+    </option>
+    <JavaCodeStyleSettings>
+      <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
+      <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
+      <option name="JD_PRESERVE_LINE_FEEDS" value="true" />
+      <option name="JD_INDENT_ON_CONTINUATION" value="true" />
+    </JavaCodeStyleSettings>
+    <ScalaCodeStyleSettings>
+      <option name="alwaysUsedImports">
+        <array>
+          <option value="domino.common.authorization.NotAuthorizedException" />
+          <option value="domino.common.util.CommonFormats._" />
+          <option value="domino.jobs.web.JsonFormat._" />
+        </array>
+      </option>
+      <option name="classCountToUseImportOnDemand" value="35" />
+      <option name="sortAsScalastyle" value="true" />
+      <option name="USE_SCALADOC2_FORMATTING" value="true" />
+      <option name="SD_BLANK_LINE_AFTER_PARAMETERS_COMMENTS" value="true" />
+      <option name="SD_BLANK_LINE_AFTER_RETURN_COMMENTS" value="true" />
+      <option name="SD_BLANK_LINE_BEFORE_PARAMETERS" value="true" />
+      <option name="SD_KEEP_BLANK_LINES_BETWEEN_TAGS" value="true" />
+      <option name="SD_PRESERVE_SPACES_IN_TAGS" value="true" />
+    </ScalaCodeStyleSettings>
+    <codeStyleSettings language="JAVA">
+      <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+      <option name="SPACE_AROUND_UNARY_OPERATOR" value="true" />
+      <option name="WRAP_COMMENTS" value="true" />
+    </codeStyleSettings>
+    <codeStyleSettings language="Scala">
+      <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+      <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
