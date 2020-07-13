@@ -1,6 +1,6 @@
 {
   "docs": {
-    "Components": ["text"],
+    "Components": ["text", "rating"],
     "First Category": ["doc2"],
     "Second Category": ["doc3"]
   },

@@ -17,6 +17,10 @@
       "doc5": {
         "title": "Fifth Document"
       },
+      "rating": {
+        "title": "Rating Field",
+        "sidebar_label": "Rating Field"
+      },
       "text": {
         "title": "Text Field",
         "sidebar_label": "Text Field"
