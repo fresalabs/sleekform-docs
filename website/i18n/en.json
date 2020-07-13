@@ -3,7 +3,7 @@
   "localized-strings": {
     "next": "Next",
     "previous": "Previous",
-    "tagline": "Typeform components",
+    "tagline": "Typeform components built with React",
     "docs": {
       "doc2": {
         "title": "document number 2"
@@ -33,9 +33,7 @@
       "Blog": "Blog"
     },
     "categories": {
-      "Components": "Components",
-      "First Category": "First Category",
-      "Second Category": "Second Category"
+      "Components": "Components"
     }
   },
   "pages-strings": {
