@@ -21,6 +21,10 @@
         "title": "Rating Field",
         "sidebar_label": "Rating Field"
       },
+      "scale": {
+        "title": "Scale Field",
+        "sidebar_label": "Scale Field"
+      },
       "text": {
         "title": "Text Field",
         "sidebar_label": "Text Field"
