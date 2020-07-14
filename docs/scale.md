@@ -1,7 +1,7 @@
 ---
 id: scale
-title: Scale Field
-sidebar_label: Scale Field
+title: Scale
+sidebar_label: Scale
 ---
 
 Scale fields let users to choose a scale.

@@ -1,7 +1,7 @@
 ---
 id: rating
-title: Rating Field
-sidebar_label: Rating Field
+title: Rating
+sidebar_label: Rating
 ---
 
 Rating fields let users to rate things.

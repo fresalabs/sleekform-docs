@@ -18,16 +18,20 @@
         "title": "Fifth Document"
       },
       "rating": {
-        "title": "Rating Field",
-        "sidebar_label": "Rating Field"
+        "title": "Rating",
+        "sidebar_label": "Rating"
       },
       "scale": {
-        "title": "Scale Field",
-        "sidebar_label": "Scale Field"
+        "title": "Scale",
+        "sidebar_label": "Scale"
+      },
+      "select": {
+        "title": "Select",
+        "sidebar_label": "Select"
       },
       "text": {
-        "title": "Text Field",
-        "sidebar_label": "Text Field"
+        "title": "Text",
+        "sidebar_label": "Text"
       }
     },
     "links": {
