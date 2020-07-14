@@ -1,38 +1,33 @@
 ---
 id: text
-title: Text Field
-sidebar_label: Text Field
+title: Text
+sidebar_label: Text
 ---
 
-Text fields let users enter and edit text.
-
-## Text Field
-
-The TextField component is a complete form control including a label, input and help text.
+A basic widget for getting the user input is a text field. Keyboard and mouse can be used for providing or changing data.
+It also supports errorMessage showcasing!
 
 ## Usage
-
 ```
-<TextField
-  param1={}
->
-</TextField>
+<Text
+  placeholder="https://"
+  errorMessage="hmm.. that we address doesn't exist"
+  onChange={(v) => console.log(v)}
+/>
 ```
 
-## Colors
-You can pass the following props as colors to the TextField
-
-Props                             | Description                   | Default Value
-----------------------------------|-------------------------------|-------------------------------
-InputTextColor                    | Color of the input            | #12345
-
-## Other Props
+## Props
 The TextField also supports the following additional properties
 
-Props                             | Description                   | Default Value
-----------------------------------|-------------------------------|-------------------------------
-onChange: Function                | onChange callback             | None
-
+Props                             | Description                             | Type                                  | Default
+----------------------------------|-----------------------------------------|---------------------------------------|-----------
+onChange?                         | onChange callback                       | (value: string | undefined) => void;  | None
+value?                            | Current selected text.                  | string                                | None
+defaultValue?                     | Initial selected text.                  | string                                | None
+name?                             | Name of the HTML Input.                 | string                                | None
+placeholder?                      | Placeholder of select.                  | string                                | None
+errorMessage?                     | The error message to be shown.          | string                                | None
+--------------------------------------------------------------------------------------------------------------------------------
 
 ## Validation
 You can pass validation errors to the TextField, which changes the color of field

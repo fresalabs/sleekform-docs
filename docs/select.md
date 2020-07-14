@@ -1,7 +1,7 @@
 ---
 id: select
-title: Select Field
-sidebar_label: Select Field
+title: Select
+sidebar_label: Select
 ---
 
 Select component to select value from options.
