@@ -25,6 +25,10 @@
         "title": "Scale Field",
         "sidebar_label": "Scale Field"
       },
+      "select": {
+        "title": "Select Field",
+        "sidebar_label": "Select Field"
+      },
       "text": {
         "title": "Text Field",
         "sidebar_label": "Text Field"
