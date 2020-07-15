@@ -17,6 +17,10 @@
       "doc5": {
         "title": "Fifth Document"
       },
+      "question": {
+        "title": "Question",
+        "sidebar_label": "Question"
+      },
       "rating": {
         "title": "Rating",
         "sidebar_label": "Rating"

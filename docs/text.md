@@ -17,11 +17,11 @@ It also supports errorMessage showcasing!
 ```
 
 ## Props
-The TextField also supports the following additional properties
+The TextField also supports the following  properties
 
 Props                             | Description                             | Type                                  | Default
 ----------------------------------|-----------------------------------------|---------------------------------------|-----------
-onChange?                         | onChange callback                       | (value: string | undefined) => void;  | None
+onChange?                         | onChange callback                       | (value?: string) => void;             | None
 value?                            | Current selected text.                  | string                                | None
 defaultValue?                     | Initial selected text.                  | string                                | None
 name?                             | Name of the HTML Input.                 | string                                | None
