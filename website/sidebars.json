@@ -1,5 +1,5 @@
 {
   "docs": {
-    "Components": ["text", "rating", "scale", "select", "question"]
+    "Components": ["text", "rating", "scale", "select", "question", "summary", "welcome"]
   }
 }

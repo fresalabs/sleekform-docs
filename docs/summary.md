@@ -1,5 +1,5 @@
 ---
-id: select
+id: summary
 title: Summary
 sidebar_label: Summary
 ---
@@ -21,7 +21,7 @@ const items: Array<SummaryItemType> = [
  header="Order Summary:"
  items={items}
  summary={{ itemName: 'Sum total', itemValue: '50$' }}
- />
+/>
 ```
 
 ## Types
