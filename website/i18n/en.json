@@ -33,9 +33,17 @@
         "title": "Select",
         "sidebar_label": "Select"
       },
+      "summary": {
+        "title": "Summary",
+        "sidebar_label": "Summary"
+      },
       "text": {
         "title": "Text",
         "sidebar_label": "Text"
+      },
+      "welcome": {
+        "title": "Welcome",
+        "sidebar_label": "Welcome"
       }
     },
     "links": {
