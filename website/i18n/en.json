@@ -21,6 +21,10 @@
         "title": "Question",
         "sidebar_label": "Question"
       },
+      "radio": {
+        "title": "Radio",
+        "sidebar_label": "Radio"
+      },
       "rating": {
         "title": "Rating",
         "sidebar_label": "Rating"
