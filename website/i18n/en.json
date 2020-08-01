@@ -5,17 +5,8 @@
     "previous": "Previous",
     "tagline": "Typeform components built with React",
     "docs": {
-      "doc2": {
-        "title": "document number 2"
-      },
-      "doc3": {
-        "title": "This is document number 3"
-      },
       "doc4": {
         "title": "Other Document"
-      },
-      "doc5": {
-        "title": "Fifth Document"
       },
       "question": {
         "title": "Question",
@@ -44,6 +35,10 @@
       "text": {
         "title": "Text",
         "sidebar_label": "Text"
+      },
+      "themeHelper": {
+        "title": "ThemeHelper",
+        "sidebar_label": "ThemeHelper"
       },
       "welcome": {
         "title": "Welcome",
