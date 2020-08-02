@@ -43,9 +43,7 @@
       }
     },
     "links": {
-      "Docs": "Docs",
-      "Help": "Help",
-      "Blog": "Blog"
+      "Docs": "Docs"
     },
     "categories": {
       "Components": "Components"

@@ -41,5 +41,5 @@ summary                           | Net summary of items                    | Su
 
 
 ## Demo
-You can view a live demo of SummaryField in [our sandbox](https://github.com/)
+You can view a live demo of SummaryField in [our sandbox](https://codesandbox.io/s/v004-byyzz)
 
