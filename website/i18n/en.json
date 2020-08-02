@@ -5,9 +5,6 @@
     "previous": "Previous",
     "tagline": "Typeform components built with React",
     "docs": {
-      "doc4": {
-        "title": "Other Document"
-      },
       "question": {
         "title": "Question",
         "sidebar_label": "Question"
@@ -28,6 +25,10 @@
         "title": "Select",
         "sidebar_label": "Select"
       },
+      "sleekFormThemProvider": {
+        "title": "SleekFormThemProvider",
+        "sidebar_label": "SleekFormThemProvider"
+      },
       "summary": {
         "title": "Summary",
         "sidebar_label": "Summary"
@@ -36,10 +37,6 @@
         "title": "Text",
         "sidebar_label": "Text"
       },
-      "themeHelper": {
-        "title": "ThemeHelper",
-        "sidebar_label": "ThemeHelper"
-      },
       "welcome": {
         "title": "Welcome",
         "sidebar_label": "Welcome"
@@ -47,7 +44,6 @@
     },
     "links": {
       "Docs": "Docs",
-      "API": "API",
       "Help": "Help",
       "Blog": "Blog"
     },
