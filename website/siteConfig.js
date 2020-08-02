@@ -10,14 +10,7 @@
 
 // List of projects/orgs using your project for the users page.
 const users = [
-  {
-    caption: 'User1',
-    // You will need to prepend the image path with your baseUrl
-    // if it is not '/', like: '/test-site/img/image.jpg'.
-    image: '/img/undraw_open_source.svg',
-    infoLink: 'https://www.facebook.com',
-    pinned: true,
-  },
+
 ];
 
 const siteConfig = {
@@ -68,9 +61,9 @@ const siteConfig = {
     ]
   },
   */
-
+  gitHubLInk: "https://github.com/fresalabs/sleekform",
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `Copyright © ${new Date().getFullYear()} Fresalabs`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
