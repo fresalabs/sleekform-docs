@@ -52,5 +52,5 @@ options                           | array of values of the scale            | Ar
 
 
 ## Demo
-You can view a live demo of SelectField in [our sandbox](https://github.com/)
+You can view a live demo of SelectField in [our sandbox](https://codesandbox.io/s/v004-byyzz)
 

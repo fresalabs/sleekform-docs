@@ -31,5 +31,5 @@ onButtonClick                     | Button action                           | ()
 ----------------------------------------------------------------------------------------------------------------------------
 
 ## Demo
-You can view a live demo of WelcomeField in [our sandbox](https://github.com/)
+You can view a live demo of WelcomeField in [our sandbox](https://codesandbox.io/s/v004-byyzz)
 
