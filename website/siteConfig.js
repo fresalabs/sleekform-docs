@@ -16,8 +16,9 @@ const users = [
 const siteConfig = {
   title: 'Sleek Form', // Title for your website.
   tagline: 'Typeform components built with React',
-  url: 'https://fresalabs.github.io', // Your website URL
-  baseUrl: '/sleekform/', // Base URL for your project */
+  url: 'https://sleekform.github.io', // Your website URL
+  baseUrl: '/', // Base URL for your project */
+  cname: 'sleekform.fresalabs.com',
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
