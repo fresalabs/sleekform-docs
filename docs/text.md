@@ -32,6 +32,9 @@ errorMessage?                     | The error message to be shown.          | st
 ## Validation
 You can pass validation errors to the TextField, which changes the color of field
 
+## Preview
+![alt](/img/text.png)
+
 ## Demo
 You can view a live demo of TextField in [our sandbox](https://codesandbox.io/s/v004-byyzz)
 

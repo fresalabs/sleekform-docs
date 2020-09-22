@@ -116,6 +116,9 @@ Props                             | Description                                 
 sleekFormTheme?                   | The customised theme for sleekform components | Similar to above theme object     | theme 
 ---------------------------------------------------------------------------------------------------------------------------------
 
+## Preview
+![alt](/img/sleekformthemeprovider.png)
+
 ## Demo
 You can view a live demo of SleekFormThemeProvider in [our sandbox](https://codesandbox.io/s/v004-byyzz)
 

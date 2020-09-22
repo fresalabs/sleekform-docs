@@ -50,6 +50,8 @@ name?                             | Name of the HTML Input (optional - without t
 options                           | array of values of the scale            | Array<OptionType>                 | None
 ----------------------------------------------------------------------------------------------------------------------------
 
+## Preview
+![alt](/img/select.png)
 
 ## Demo
 You can view a live demo of SelectField in [our sandbox](https://codesandbox.io/s/v004-byyzz)

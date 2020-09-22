@@ -39,6 +39,8 @@ items                             | List of items shown under heading.      | Ar
 summary                           | Net summary of items                    | SummaryItemType                   | None
 ----------------------------------------------------------------------------------------------------------------------------
 
+## Preview
+![alt](/img/summary.png)
 
 ## Demo
 You can view a live demo of SummaryField in [our sandbox](https://codesandbox.io/s/v004-byyzz)
