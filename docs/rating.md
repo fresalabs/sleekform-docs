@@ -37,6 +37,8 @@ emptySymbol                       | element or object or string or array	| React
 fullSymbol                        | element or object or string or array	| React.ReactElement        | None
 ----------------------------------------------------------------------------------------------------------
 
+## Preview
+![alt](/img/rating.png)
 
 ## Demo
 You can view a live demo of RatingField in [our sandbox](https://codesandbox.io/s/v004-byyzz)

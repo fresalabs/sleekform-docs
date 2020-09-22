@@ -25,6 +25,9 @@ number?                           | The question number                         
 required?                         | When the question required is true gets `*` at the question end | string            | None
 --------------------------------------------------------------------------------------------------------------------------------
 
+## Preview
+![alt](/img/question.png)
+
 ## Demo
 You can view a live demo of QuestionField in [our sandbox](https://codesandbox.io/s/v004-byyzz)
 

@@ -42,6 +42,8 @@ defaultValue?                     | Initial selected rating.                | Sc
 values                            | array of values of the scale            | Array<ScaleValueType>             | None
 ----------------------------------------------------------------------------------------------------------------------------
 
+## Preview
+![alt](/img/scale.png)
 
 ## Demo
 You can view a live demo of ScaleField in [our sandbox](https://codesandbox.io/s/v004-byyzz)

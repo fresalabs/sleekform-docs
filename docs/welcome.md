@@ -30,6 +30,9 @@ buttonText                        | Button text                             | st
 onButtonClick                     | Button action                           | () => void;                       | None
 ----------------------------------------------------------------------------------------------------------------------------
 
+## Preview
+![alt](/img/welcome.png)
+
 ## Demo
 You can view a live demo of WelcomeField in [our sandbox](https://codesandbox.io/s/v004-byyzz)
 

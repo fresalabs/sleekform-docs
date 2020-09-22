@@ -41,6 +41,9 @@ name?                             | Name of the HTML Input                  | st
 options                           | array of values of the radio            | Array<Option>                                       | None
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
+## Preview
+![alt](/img/radio.png)
+
 ## Demo
 You can view a live demo of RadioField in [our sandbox](https://codesandbox.io/s/v004-byyzz)
 
